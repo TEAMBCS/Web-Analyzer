@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_logo.png" alt="Web Analyzer Logo" width="380">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_logo.png" width="380" alt="Logo">
 </p>
 
-<h1 align="center">Web Analyzer</h1>
 <p align="center">
   <em>Inspect • Test • Analyze</em><br>
   <strong>A Terminal-Based Web Inspection & Security Testing Lab</strong>
