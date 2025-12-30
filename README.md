@@ -10,9 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12.12-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/TUI-Textual-purple?logo=python&logoColor=white" alt="Textual">
-  <img src="https://img.shields.io/badge/Rich-orange?logo=python&logoColor=white" alt="Rich">
-  <img src="https://img.shields.io/badge/Aiohttp-green?logo=python&logoColor=white" alt="Aiohttp">
+  <img src="https://img.shields.io/badge/TUI Library-Textual-purple?logo=python&logoColor=white" alt="Textual">
+  <img src="https://img.shields.io/badge/Library-Rich-orange?logo=python&logoColor=white" alt="Rich">
+  <img src="https://img.shields.io/badge/Library-Aiohttp-green?logo=python&logoColor=white" alt="Aiohttp">
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Termux%20|%20Linux%20|%20macOS-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
