@@ -150,6 +150,11 @@ Web-Inspector-Lab/
 │
 ├── request_history/
 │   └── request_history_<timestamp>.json
+|
+├──Web_Inspector_Lab_/
+|  └── Web_Inspector_Lab_style.css
+|
+├── MORE
 │
 └── README.md
 
@@ -175,13 +180,9 @@ pip install aiohttp textual beautifulsoup4
 python3 
 ```
 
----
-
-## ⚠️ Legal & Ethical Notice
-
-This project is intended **strictly for educational and authorized security testing**.
-
-* Do not test systems without explicit permission.
+# ⚠️ Legal & Ethical Noticel Noticeroject is intended 
+ 
+**strictly for educational and authorized security testing**.sting**.o* Do not test systems without explicit permission.
 * Misuse may be illegal.
 * The author takes no responsibility for improper use.
 
@@ -189,18 +190,15 @@ Always test responsibly and ethically.
 
 ---
 
-## 👤 Author
+## 👤 Autor Info
 
-Developed by **BLACK ZERO**
-GitHub: [https://github.com/BLACK-ZER-O](https://github.com/BLACK-ZER-0?tab=repositories)
+Deceloper ➤ BLACK ZERO(https://github.com/BLACK-ZER-0)
+OWNER ➤ BANGLADESH CYBER SQUAD && TEAM SHADOW STRIKER 
 
 ---
 
-## ⭐ Support & Contribution
-
-If you find this project useful:
-
-* Star the repository
+## ⭐ Support & Contribu
+# ⭐ Support & Contribu fin u* Star the repository
 * Share it with learners
 * Contribute improvements or bug fixes
 
