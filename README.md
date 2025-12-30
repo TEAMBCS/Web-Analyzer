@@ -180,7 +180,17 @@ pip install aiohttp textual beautifulsoup4
 python3 
 ```
 
-# ⚠️ Legal & Ethical Noticel Noticeroject is intended 
+# 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic1.jpg" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic2.jpg" width="800">
+</p>
+
+gal & Ethical Noticel Noticeroject is inte
  
 **strictly for educational and authorized security testing**.sting**.o* Do not test systems without explicit permission.
 * Misuse may be illegal.
@@ -197,10 +207,8 @@ Always test responsibly and ethically.
 * 🛡️ OWBER - *BANGLADESH CYBER SQUAD* && *TEAM SHADOW STRIKER*
 ---
 
-## ⭐ Support & Contribu
-# ⭐ Support & Contribu fin u* Star the repository
+# ⭐ Support & Contribu
+#### ⭐ Support & Contribu fin u* Star the rep
+⭐ Support & Contribu fin u* Star the repos
 * Share it with learners
-* Contribute improvements or bug fixes
-
-Your support helps this project grow.
-
+* Contribute improvements or bug fix
