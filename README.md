@@ -1,134 +1,91 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_logo.png" width="380" alt="Logo">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_logo.png" alt="Web Analyzer Logo" width="380">
 </p>
 
-<p align="center"><b> Web Inspectorb Lab </b> </p>
-
+<h1 align="center">Web Analyzer</h1>
 <p align="center">
-  Inspect • Test • Analyze  
-  <br>
-  A Professional Terminal-Based Web Inspection & Security Testing Lab
+  <em>Inspect • Test • Analyze</em><br>
+  <strong>A Terminal-Based Web Inspection & Security Testing Lab</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
-   <img src="https://img.shields.io/badge/Textual-purple"> 
-<img src="https://img.shields.io/badge/Rich-orange?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Version-1.0-blue">
-
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20macOS-lightgrey">
-  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/Python-3.12.12-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/TUI-Textual-purple?logo=python&logoColor=white" alt="Textual">
+  <img src="https://img.shields.io/badge/Rich-orange?logo=python&logoColor=white" alt="Rich">
+  <img src="https://img.shields.io/badge/Aiohttp-green?logo=python&logoColor=white" alt="Aiohttp">
+  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Termux%20|%20Linux%20|%20macOS-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
 </p>
 
 ---
 
-## 🧪 About Web Inspector Lab
+## 🧪 About Web Analyzer
 
-**Web Inspector Lab** is a modern, terminal-based web inspection and security testing tool built using **Python** and **Textual**.  
-It provides a clean TUI interface for crafting HTTP requests, analyzing responses, generating payloads, and performing vulnerability assessments.
+**Web Analyzer** is a modern, terminal-based **web inspection & security testing lab** built using **Python** and **Textual**.  
+It is crafted for **ethical hackers, cybersecurity learners, web testers, and developers** looking to explore HTTP internals.  
 
-The tool is designed for:
-- Ethical hackers
-- Cybersecurity students
-- Web testers
-- Developers learning HTTP internals
-
----
-
-## ✨ Highlights
-
-- Clean and interactive **Textual TUI**
-- Full-featured HTTP request editor
-- Integrated vulnerability scanning
-- Advanced payload generator
-- Encoder / decoder utilities
-- Session, cookie, and request history management
-- Keyboard shortcut driven workflow
+**Features a clean TUI for:**
+- Crafting HTTP requests
+- Analyzing server responses
+- Generating and testing payloads
+- Vulnerability assessment  
 
 ---
 
-## 🔧 Core Capabilities
+## ✨ Premium Highlights
+
+- Fully interactive **Textual TUI** with keyboard shortcuts  
+- HTTP Request Inspector with full method support  
+- Advanced Payload Generator & Vulnerability Scanner  
+- Encoder / Decoder utilities (Base64/32/16, URL, HTML Entities, JWT)  
+- Session, cookie & request history management  
+- Predefined request templates for JSON, GraphQL, API keys, file uploads  
+- Clean dark-theme hacker-style interface  
+
+---
+
+## 🔧 Core Modules
 
 ### 🌐 HTTP Request Inspector
-- Supported methods: `GET`, `POST`, `PUT`, `DELETE`, `PATCH`, `HEAD`, `OPTIONS`
-- Custom headers, cookies, body, and parameters
-- Proxy support (HTTP / HTTPS / SOCKS4 / SOCKS5)
-- SSL verification toggle
-- Timeout control
-
----
+- Methods: `GET`, `POST`, `PUT`, `DELETE`, `PATCH`, `HEAD`, `OPTIONS`  
+- Custom headers, cookies, parameters & body  
+- Proxy support: HTTP / HTTPS / SOCKS4 / SOCKS5  
+- SSL verification toggle & timeout control  
 
 ### 🔐 Encoder / Decoder Lab
-- Base64 / Base32 / Base16 (Hex)
-- URL Encode / Decode
-- HTML Entities
-- JWT decoding and inspection
-
----
+- Base64 / Base32 / Base16 (Hex)  
+- URL Encode / Decode  
+- HTML Entities  
+- JWT inspection  
 
 ### 🚀 Payload Generator
-Payload categories:
-- SQL Injection
-- XSS
-- Command Injection
-- Directory Traversal
-- SSRF
-- XXE
-- Template Injection
-- NoSQL Injection
-- LDAP Injection
-- XPath Injection
-- Custom payloads
-
-Payloads can be generated, previewed, and saved for reuse.
-
----
+- SQL Injection, XSS, Command Injection, Directory Traversal, SSRF, XXE  
+- Template Injection, NoSQL, LDAP, XPath Injection  
+- Custom payload creation, preview, & save  
 
 ### 🛡️ Vulnerability Scanner
-Scan types include:
-- SQL Injection
-- XSS
-- Directory Traversal
-- Command Injection
-- CSRF token detection
-- Missing security headers
-- Custom payload-based testing
-
-Results include:
-- Severity level
-- Affected parameter
-- Target URL
-- Exportable JSON reports
-
----
+- Detect SQLi, XSS, Directory Traversal, Command Injection  
+- CSRF token checks, missing security headers  
+- Exportable JSON reports with severity & affected parameters  
 
 ### 🔍 Login Page Detector
-- Automatic login form detection
-- Username and password field discovery
-- Hidden input extraction
-- Ready-to-submit login requests
-
----
-
-### 📬 Request Templates
-Predefined templates for:
-- Standard HTTP requests
-- JSON and form submissions
-- Basic & Bearer authentication
-- API key headers
-- GraphQL queries
-- File uploads
+- Auto-detect login forms  
+- Discover username & password fields  
+- Hidden input extraction  
+- Ready-to-submit requests  
 
 ---
 
 ## ⌨️ Keyboard Shortcuts
 
 | Shortcut | Action |
-|--------|--------|
-| `Ctrl + Q` | Quit application |
-| `Esc` | Close active modal |
+|----------|--------|
+| `Ctrl + Q` | Quit |
+| `Esc` | Close modal |
 | `Tab` | Switch focus |
-| `Enter` | Confirm action |
+| `Enter` | Confirm |
 | `Ctrl + M` | Select HTTP method |
 | `Ctrl + E` | Encoder / Decoder |
 | `Ctrl + G` | Payload Generator |
@@ -144,24 +101,17 @@ Predefined templates for:
 
 ```
 
-Web-Inspector-Lab/
-│
-├── 
+Web-Analyzer/
 │
 ├── payloads_save/
 │   └── payloads_<timestamp>.txt
-│
 ├── vulnerability_scan_result/
 │   └── vulnerability_scan_<timestamp>.json
-│
 ├── request_history/
 │   └── request_history_<timestamp>.json
-|
-├──Web_Inspector_Lab_/
-|  └── Web_Inspector_Lab_style.css
-|
-├── MORE
-│
+├── Web_Analyzer_/
+│   └── Web_Analyzer_style.css
+├── MORE/
 └── README.md
 
 ````
@@ -170,51 +120,57 @@ Web-Inspector-Lab/
 
 ## ⚙️ Requirements
 
-- Python **3.9+**
-- Termux / Linux / macOS
+- Python **3.12.12**  
+- Termux / Linux / macOS  
 
-### Dependencies
+### Install Dependencies
 ```bash
 pip install aiohttp textual beautifulsoup4
 ````
 
 ---
 
-## ▶️ Run the Tool
+## ▶️ Run Web Analyzer
 
 ```bash
-python3 
+python3 web_analyzer.py
 ```
 
-# 📸 Screenshots
+---
+
+## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic1.jpg" alt="pic1" width="50%" />
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_pic1.jpg" width="45%" alt="Screenshot 1">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic2.jpg" alt="pic2" width="50%" />
-
-
-  </p>
-
-gal & Ethical Noticel Noticeroject is inte
- 
-**strictly for educational and authorized security testing**.sting**.o* Do not test systems without explicit permission.
-* Misuse may be illegal.
-* The author takes no responsibility for improper use.
-
-Always test responsibly and ethically.
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_pic2.jpg" width="45%" alt="Screenshot 2">
+</p>
 
 ---
 
-## 👤 Autor Info
+## ⚠️ Legal & Ethical Notice
 
-* Developer — *BLACK ZERO*
-* 🌐 GitHub: [BLACK-ZER-0](https://github.com/BLACK-ZER-0)
-* 🛡️ OWBER - *BANGLADESH CYBER SQUAD* && *TEAM SHADOW STRIKER*
+**For authorized testing and educational purposes only**.
+
+* Do not test without explicit permission
+* Misuse may be illegal
+* Author takes no responsibility for improper use
+
 ---
 
-# ⭐ Support & Contribu
-#### ⭐ Support & Contribu fin u* Star the rep
-⭐ Support & Contribu fin u* Star the repos
-* Share it with learners
-* Contribute improvements or bug fix
+## 👤 Author Info
+
+* **BLACK ZERO**
+* GitHub: [BLACK-ZER-0](https://github.com/BLACK-ZER-0)
+* Member: *BANGLADESH CYBER SQUAD* & *TEAM SHADOW STRIKER*
+
+---
+
+## ⭐ Support & Contribution
+
+* ⭐ Star this repository
+* 🔗 Share with learners
+* 🛠 Contribute improvements or bug fixes
+
+
+
