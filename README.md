@@ -140,7 +140,7 @@ pkg install git -y
 git clone https://github.com/TEAMBCS/Web-Analyzer.git
 cd Web-Analyzer
 chmod +x *
-chmod 777*
+chmod 777 *
 chmod +w .
 pip install -r web-analyzer.txt
 python3 web_analyzer.py
