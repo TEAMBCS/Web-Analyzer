@@ -143,7 +143,7 @@ chmod +x *
 chmod 777 *
 chmod +w .
 pip install -r web-analyzer.txt
-python3 web_analyzer.py
+python3 web-analyzer.py
 ```
 *or*
 ```
