@@ -153,7 +153,7 @@ bash start.sh
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Analyzer/main/Logo%20and%20Screenshot/Web_Analyzer_pic1_v2.png" width="45%" alt="Screenshot 1">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Analyzer/main/Logo%20and%20Screenshot/Web_Analyzer_pic1_v2.1.png" width="45%" alt="Screenshot 1">
   &nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Analyzer/main/Logo%20and%20Screenshot/Web_Analyzer_pic2.png" width="45%" alt="Screenshot 2">
   &nbsp;&nbsp;
