@@ -4,3 +4,4 @@ bs4
 beautifulsoup4
 textual
 textual-dev
+pycryptodome
