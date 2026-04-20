@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Library-Aiohttp-green?logo=python&logoColor=white" alt="Aiohttp">
   
   <img src="https://img.shields.io/badge/Style-CSS-blue?&logoColor=white" alt="Aiohttp">
-  <img src="https://img.shields.io/badge/Version-1.0-red" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.1-red" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Termux%20|%20Linux%20|%20macOS-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
 </p>
